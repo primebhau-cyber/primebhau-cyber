@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm PrimeBhau 👋
 
-<!--
-**primebhau-cyber/primebhau-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🚀 Aspiring Developer
+- 🤖 AI Enthusiast
+- 🎬 Content Creator
+- 💻 Learning Programming and Technology
 
-Here are some ideas to get you started:
+### My Interests
+- Artificial Intelligence
+- Web Development
+- Video Editing
+- Digital Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### My Goal
+To learn new technologies, improve my skills, and build useful projects.
 -->
